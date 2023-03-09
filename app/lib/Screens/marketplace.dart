@@ -1,6 +1,4 @@
-
 import 'package:flutter/material.dart';
-
 class marketplace extends StatelessWidget {
   const marketplace({
     Key? key,
