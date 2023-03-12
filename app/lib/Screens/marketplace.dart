@@ -3,7 +3,6 @@ class marketplace extends StatelessWidget {
   const marketplace({
     Key? key,
   }) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
