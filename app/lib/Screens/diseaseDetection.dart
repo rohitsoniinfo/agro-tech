@@ -10,7 +10,7 @@ class _diseaseDetectionState extends State<diseaseDetection> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Container(
+      child: Center(
         child: Text(
           'Disease Detection Screen.',
         ),

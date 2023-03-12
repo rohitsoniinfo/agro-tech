@@ -9,6 +9,12 @@ class weatherScreen extends StatefulWidget {
 class _weatherScreenState extends State<weatherScreen> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: Center(
+        child: Text(
+          'Weather Screen.',
+        ),
+      ),
+    );
   }
 }
