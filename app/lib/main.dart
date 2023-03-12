@@ -1,6 +1,8 @@
+import 'package:app/Screens/weatherScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:app/Components/bottomNavigationBar.dart';
 import 'package:app/Screens/marketplace.dart';
+import 'package:app/Screens/AlllScreens.dart';
 void main() {
   runApp(MyApp());
 }
@@ -14,19 +16,11 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   int currentIndex=2;
   List<Widget> childrens = [
-    Center(
-      child: Text('mail'),
-    ),
-    Center(
-      child: Text('person'),
-    ),
+    weatherScreen(),
+    diseaseDetection(),
     marketplace(),
-    Center(
-      child: Text('human'),
-    ),
-    Center(
-      child: Text('human'),
-    )
+    feedScreen(),
+    profileScreen(),
   ];
   void onTabTapped(int index)
   {
