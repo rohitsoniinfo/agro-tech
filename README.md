@@ -46,6 +46,6 @@ To get started with contributing to the project, please refer to the [CONTRIBUTI
 
 ## Contact Information
 
-For any queries, suggestions, or support regarding the project, please contact the project maintainer at [project@example.com](mailto:project@example.com).
+For any queries, suggestions, or support regarding the project, please contact the project maintainer at [rohitsoni181001@gmail.com](mailto:rohitsoni181001@gmail.com).
 
 We look forward to your valuable contributions and making a positive impact on the agriculture industry with "The Only App Kisan Need"!
