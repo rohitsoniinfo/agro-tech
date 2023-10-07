@@ -1,5 +1,3 @@
-
-```markdown
 # Contributing Guidelines
 
 Thank you for considering contributing to "The Only App Kisan Need"! We appreciate your interest and support in making this project better. By contributing, you can help farmers around the world by improving the functionality, usability, and overall impact of the application.
