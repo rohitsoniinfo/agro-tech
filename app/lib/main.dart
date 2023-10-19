@@ -33,6 +33,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     debugShowCheckedModeBanner: false;
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         // appBar: AppBar(),
         body: childrens[currentIndex],
